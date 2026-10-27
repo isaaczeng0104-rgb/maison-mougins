@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://isaaczeng0104-rgb.github.io/maison-mougins/sitemap.xml
